@@ -1,0 +1,34 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/movie",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/movie",
+      "ServiceName": "MoviesApi",
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/user",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/user",
+      "ServiceName": "UserApi",
+      "UpstreamHttpMethod": [ "Get" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    }
+  ],
+    "GlobalConfiguration": {
+        "RequestIdKey": "OcRequestId",
+        "AdministrationPath": "/administration",
+        "UseServiceDiscovery": true,
+        "ServiceDiscoveryProvider": {
+            "Type": "Eureka",
+            "Host": "localhost",
+            "Port": "8761"
+        }
+    }
+}

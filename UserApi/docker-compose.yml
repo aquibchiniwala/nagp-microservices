@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  userapi:
+    image: ${DOCKER_REGISTRY-}userapi
+    build:
+      context: .
+      dockerfile: UserApi/Dockerfile
+    ports:
+      - "64291:80"
+    environment:
+      eureka.client.enabled: 'true'
+      eureka.host: eureka-server
+      eureka.instance.preferIpAddress: 'true'
+  eureka-server:
+    image: steeltoeoss/eureka-server
+    restart: always
+    ports:
+     - "8761:8761"

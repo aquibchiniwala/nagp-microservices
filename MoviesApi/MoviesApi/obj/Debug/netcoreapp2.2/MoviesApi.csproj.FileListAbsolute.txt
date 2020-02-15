@@ -1,0 +1,76 @@
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.deps.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.dev.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csprojAssemblyReference.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfoInputs.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorTargetAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\MSA2020\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csprojAssemblyReference.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfoInputs.cache
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.deps.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.dev.json
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\NTEG-Microservices\workshop\MSA2019\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorTargetAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.deps.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.dev.json
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csprojAssemblyReference.cache
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfoInputs.cache
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfo.cs
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorTargetAssemblyInfo.cache
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\NTEG-Microservices\workshop\session 2 handson\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.deps.json
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.json
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.dev.json
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csprojAssemblyReference.cache
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csproj.CoreCompileInputs.cache
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cache
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cs
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfoInputs.cache
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfo.cs
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorTargetAssemblyInfo.cache
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\microservices\base code\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.deps.json
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.json
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.runtimeconfig.dev.json
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\bin\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csproj.CoreCompileInputs.cache
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cache
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorAssemblyInfo.cs
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfoInputs.cache
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.AssemblyInfo.cs
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.RazorTargetAssemblyInfo.cache
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.dll
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.pdb
+D:\NAGP\microservices\LoadBalancer\MoviesApi\MoviesApi\obj\Debug\netcoreapp2.2\MoviesApi.csprojAssemblyReference.cache
